@@ -1,2 +1,2 @@
- Some notes about Haskell
+ Some notes about Haskell 
 
